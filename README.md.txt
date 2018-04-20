@@ -1,6 +1,6 @@
 ###### JSON ARRAY DE-DUPER
 
-
+ALL CHANGES ARE LOGGED IN CONSOLE
 
 
 ###Programming Challenge:
